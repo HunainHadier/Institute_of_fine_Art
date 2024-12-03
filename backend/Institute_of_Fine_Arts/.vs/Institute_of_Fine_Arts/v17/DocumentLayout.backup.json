@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|c:\\users\\hunai\\source\\repos\\institute_of_fine_arts\\institute_of_fine_arts\\migrations\\20241119151627_fineart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|solutionrelative:institute_of_fine_arts\\migrations\\20241119151627_fineart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|c:\\users\\hunai\\source\\repos\\institute_of_fine_arts\\institute_of_fine_arts\\controllers\\competitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|solutionrelative:institute_of_fine_arts\\controllers\\competitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|c:\\users\\hunai\\source\\repos\\institute_of_fine_arts\\institute_of_fine_arts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|solutionrelative:institute_of_fine_arts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|c:\\users\\hunai\\source\\repos\\institute_of_fine_arts\\institute_of_fine_arts\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|solutionrelative:institute_of_fine_arts\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|c:\\users\\hunai\\source\\repos\\institute_of_fine_arts\\institute_of_fine_arts\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|solutionrelative:institute_of_fine_arts\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|c:\\users\\hunai\\source\\repos\\institute_of_fine_arts\\institute_of_fine_arts\\models\\updatecoursesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|solutionrelative:institute_of_fine_arts\\models\\updatecoursesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|c:\\users\\hunai\\source\\repos\\institute_of_fine_arts\\institute_of_fine_arts\\models\\allcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04323CEE-DEB9-4408-999F-A2334219E201}|Institute_of_Fine_Arts\\Institute_of_Fine_Arts.csproj|solutionrelative:institute_of_fine_arts\\models\\allcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241119151627_FineArt.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Migrations\\20241119151627_FineArt.cs",
+              "RelativeDocumentMoniker": "Institute_of_Fine_Arts\\Migrations\\20241119151627_FineArt.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Migrations\\20241119151627_FineArt.cs",
+              "RelativeToolTip": "Institute_of_Fine_Arts\\Migrations\\20241119151627_FineArt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:16:27.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompetitionController.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Controllers\\CompetitionController.cs",
+              "RelativeDocumentMoniker": "Institute_of_Fine_Arts\\Controllers\\CompetitionController.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Controllers\\CompetitionController.cs",
+              "RelativeToolTip": "Institute_of_Fine_Arts\\Controllers\\CompetitionController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:58:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Institute_of_Fine_Arts\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Models\\User.cs",
+              "RelativeToolTip": "Institute_of_Fine_Arts\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:55:16.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateCoursesModel.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Models\\UpdateCoursesModel.cs",
+              "RelativeDocumentMoniker": "Institute_of_Fine_Arts\\Models\\UpdateCoursesModel.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Models\\UpdateCoursesModel.cs",
+              "RelativeToolTip": "Institute_of_Fine_Arts\\Models\\UpdateCoursesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:40:33.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Models\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "Institute_of_Fine_Arts\\Models\\CourseViewModel.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Models\\CourseViewModel.cs",
+              "RelativeToolTip": "Institute_of_Fine_Arts\\Models\\CourseViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:53:21.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Institute_of_Fine_Arts\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Institute_of_Fine_Arts\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAcwIUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:53:03.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllCourses.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Models\\AllCourses.cs",
+              "RelativeDocumentMoniker": "Institute_of_Fine_Arts\\Models\\AllCourses.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\Institute_of_Fine_Arts\\Institute_of_Fine_Arts\\Models\\AllCourses.cs",
+              "RelativeToolTip": "Institute_of_Fine_Arts\\Models\\AllCourses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:19:09.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

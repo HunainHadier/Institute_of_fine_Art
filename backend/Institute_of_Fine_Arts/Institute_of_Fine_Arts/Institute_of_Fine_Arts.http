@@ -1,0 +1,6 @@
+@Institute_of_Fine_Arts_HostAddress = http://localhost:5116
+
+GET {{Institute_of_Fine_Arts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
